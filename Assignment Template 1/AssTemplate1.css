@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(8, 182, 46, 0.849);
+}
+.image{
+    border: 3px solid transparent;
+    background-color: rgb(107, 171, 131);
+    color: white; 
+    width: 385px;
+    text-align: center; 
+    border-radius: 5px;  
+    padding: 5px;
+}
+.One{
+    border: 3px solid transparent;
+    color: green;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Two{
+    background-color: white;
+    width: 400px;
+    color: green;
+    text-align: center;
+}
+.Three{
+    background-color: rgb(107, 171, 131);
+    color: white;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+.four{
+    border: 2px solid black;
+    background-color: green;
+    color: white;
+    width: fit-content;
+    left: 500px;
+}

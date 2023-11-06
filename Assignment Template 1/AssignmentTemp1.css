@@ -1,0 +1,35 @@
+body{
+    background-color: green;   
+}
+.top{
+    border: 2px double transparent;    
+    height: 120px;
+    width: 450px;
+    background-color: rgba(0, 128, 79, 0.80);
+    color: white;
+    text-align: center;
+    
+}
+.bottom{
+    border: 2px double transparent;
+    height: 400px;
+    width: 500px;    
+}
+.boLog{
+    border: 2px double transparent;
+    border-radius: 5px;
+    height: 50px;
+    width: 300px;
+    background-color: rgba(0, 128, 79, 0.80);
+    color: white;
+    margin-left: 100px;
+    
+}
+.All{
+    border: 1px double transparent;
+    max-width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: white;
+    margin: 200px 700px;
+}
